@@ -1,4 +1,5 @@
 Hello, I mix some scripts with maps and cars and I make today a some funny gokarts.
+Nothing hard ,I so change possition and cars.
 
 
 Script for Rent a Gokart: https://forum.fivem.net/t/release-esx-carrental/127465/3
